@@ -1,6 +1,5 @@
 import menuCardsTpl from './templates/menu-cards.hbs';
 import menu from './js/menu.json';
-import './css/styles.css';
 
 const refs = {
   menuContainer: document.querySelector('.js-menu'),
